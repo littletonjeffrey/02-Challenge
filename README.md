@@ -1,5 +1,5 @@
-1)Project: Horiseon Marketing Webpage
-2)Goal: Update HTML and CSS on existing page to be more accessible
+<p>1)Project: Horiseon Marketing Webpage</p>
+<p>2)Goal: Update HTML and CSS on existing page to be more accessible</p>
 3)Actions: 
 -Changed out unspecified tags with descriptive tags that follow semantic HTML theory
 -Added alt tags to all pertinent images
