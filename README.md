@@ -1,3 +1,4 @@
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/107085573/174451703-911108f4-1f08-429c-b3ee-e1e6b3fbad2e.png)
 <p>1)Project: Horiseon Marketing Webpage</p>
 <p>2)Goal: Update HTML and CSS on existing page to be more accessible</p>
 <p>3)Actions:</p> 
@@ -14,7 +15,9 @@
     </ul>
 <p>4) Collaborators:<p>
     <ul>
-        <li>-Andrew Edwards: https://github.com/Andrew87E</li>
-        <li>-Sara Baqla: https://github.com/missatrox44</li>
+        <li>Chief Everything Officer: Andrew Edwards https://github.com/Andrew87E</li>
+        <li> Colour Distribution Technician: Sara Baqla https://github.com/missatrox44</li>
+        <li>Under Secretary to the Sub-Committee: Zach Serrano https://github.com/ZSerrano</li>
+        <li>Primary Image Consultant: Aaron Anglin https://github.com/aanglin</li>    
     </ul>
 </p>5) License: MIT
