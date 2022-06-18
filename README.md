@@ -8,7 +8,7 @@
         <li>-Restructured HTML and CSS code so that the code followed a more logical flow</li>
         <li>-Extended side-bar so that it was flush with other elements on the page</li>
         <li>-Altered logo on page to make it a link back to home page</li>
-        <li>-Added a favicon that represents the company's mission<li>
+        <li>-Added a favicon that represents the company's mission</li>
         <li>-Update the title to a more descriptive text</li>
         <li>-Create the most basic read.me</li>
     </ul>
