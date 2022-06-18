@@ -1,5 +1,5 @@
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/107085573/174451703-911108f4-1f08-429c-b3ee-e1e6b3fbad2e.png)
-<a href:"https://littletonjeffrey.github.io/02-Challenge/">Horiseon Home Page</a>
+<p>Horiseon Home Page: https://littletonjeffrey.github.io/02-Challenge/
 <p>1)Project: Horiseon Marketing Webpage</p>
 <p>2)Goal: Update HTML and CSS on existing page to be more accessible</p>
 <p>3)Actions:</p> 
